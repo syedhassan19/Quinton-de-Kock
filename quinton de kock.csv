@@ -1,0 +1,31 @@
+Match id,Batting position,Batting position,Venue City,Ground,Opposition,"Pitch	",Weather,Avg in last 5 matches,Avg in last 5 matches,Fours in last five matches,Fours in last five matches,Sixes in last five matches,Sixes in last five matches,Score in last five matches,Score in last five matches,Runs,Runs
+ODI # 3323,Six,6,"Pearl, South AFrica",pearl,v New Zealand,batting-friendly pitch.,Warm,Zero to Thirty,21,Bet zero to twenty,10,Zero to Five,1,One Hundred to One Fifty,105,Bat zero to fifty,18
+ODI # 3325,One,1,"Kimberley, South Africa",Kimberley,v New Zealand,balanced pitch,Warm,Zero to Thirty,19,Bet zero to twenty,10,Zero to Five,1,Fifty to One Hundred,95,Bat zero to fifty,25
+ODI # 3328,One,1,"Potchefstroom, South AFrica",Potchefstroom,v New Zealand,batting-friendly pitch.,Mild,Zero to Thirty,17.8,Bet zero to twenty,14,Zero to Five,0,Fifty to One Hundred,89,Bat zero to fifty,31
+ODI # 3350,Two,2,"Benoni, South AFrica",Benoni,v Pakistan,batting-friendly pitch.,Hot,Thirty to Sixty,34,Bet zero to twenty,15,Zero to Five,0,Fifty to One Hundred,98,Bat zero to fifty,3
+ODI # 3398,Two,2," Kandy, Sri Lanka",Pallekele,v Sri Lanka,batting-friendly pitch.,Hot,Zero to Thirty,17.8,Bet zero to twenty,14,Zero to Five,0,Fifty to One Hundred,89,Bat zero to fifty,20
+ODI # 3400,Two,2," Kandy, Sri Lanka",Pallekele,v Sri Lanka,batting-friendly pitch.,Sunny,Zero to Thirty,19.4,Bet zero to twenty,9,Zero to Five,2,Fifty to One Hundred,97,Bat zero to fifty,8
+ODI # 3401,One,1," Maligawatta, Colombo, Sri Lanka",Colombo (RPS),v Sri Lanka,balanced pitch,Mild,Zero to Thirty,21.6,Bet zero to twenty,10,Zero to Five,2,Fifty to One Hundred,87,Bat zero to fifty,27
+ODI # 3430,Two,2,"Abu Dhabi, UAE",Abu Dhabi,v Pakistan,batting-friendly pitch.,Hot,Zero to Thirty,17.8,Bet zero to twenty,14,Zero to Five,0,Fifty to One Hundred,89,Bat zero to fifty,40
+ODI # 3431,One,1,"Abu Dhabi, UAE",Abu Dhabi,v Pakistan,batting-friendly pitch.,Mild,Thirty to Sixty,34,Bet zero to twenty,15,Zero to Five,0,Fifty to One Hundred,98,Bet hundred to one fifty,112
+ODI # 3433,Two,2,"Sharjah, United Arab Emirates",Sharjah,v Pakistan,batting-friendly pitch.,Sunny,Thirty to Sixty,41.4,Bet twenty to forty,24,Zero to Five,1,Two Hundred to Three Hundred,207,Bat zero to fifty,34
+ODI # 3438,Three,3,"Cape Town, South Africa",Cape Town,v Pakistan,batting-friendly pitch.,Sunny,Thirty to Sixty,44.2,Bet twenty to forty,26,Zero to Five,1,Two Hundred to Three Hundred,221,Bat zero to fifty,19
+ODI # 3440,Three,3,"Gqeberha, South Africa",Gqeberha,v Pakistan,balanced pitch,Sunny,Thirty to Sixty,46.4,Bet twenty to forty,27,Zero to Five,1,Two Hundred to Three Hundred,232,Bat zero to fifty,47
+ODI # 3441,One,1,"Centurion, South Africa",Centurion,v Pakistan,batting-friendly pitch.,Hot,Thirty to Sixty,50.4,Bet twenty to forty,25,Zero to Five,2,Two Hundred to Three Hundred,252,Bat zero to fifty,15
+ODI # 3442,Two,2,"Johannesburg, South Africa",Johannesburg,v India,batting-friendly pitch.,Warm,Thirty to Sixty,45.4,Bet twenty to forty,23,Zero to Five,2,Two Hundred to Three Hundred,227,Bet hundred to one fifty,135
+ODI # 3443,One,1," Durban, KwaZulu-Natal, South Africa",Durban,v India,batting-friendly pitch.,Warm,Thirty to Sixty,50,Bet twenty to forty,32,Five to Ten,7,Two Hundred to Three Hundred,250,Bet hundred to one fifty,106
+ODI # 3444,Two,2,"Centurion, South Africa",Centurion,v India,batting-friendly pitch.,Mild,Sixty to Ninety,64.4,Bet twenty to forty,36,Zero to Five,4,Above three hundred,322,Bet hundred to one fifty,101
+ODI # 3500,Two,2," Maligawatta, Colombo, Sri Lanka",Colombo (RPS),v Sri Lanka,balanced pitch,Mild,Sixty to Ninety,80.8,bet forty to sixty,42,Five to Ten,6,Above three hundred,404,Bat zero to fifty,27
+ODI # 3501,Two,2," Kandy, Sri Lanka",Pallekele,v Sri Lanka,batting-friendly pitch.,Sunny,Sixty to Ninety,76.8,bet forty to sixty,42,Five to Ten,6,Above three hundred,384,Bat zero to fifty,4
+ODI # 3502,Two,2," Hambantota, Sri Lanka.",Hambantota,v Sri Lanka,batting-friendly pitch.,Sunny,Sixty to Ninety,74.6,bet forty to sixty,40,Five to Ten,6,Above three hundred,373,Bet hundred to one fifty,128
+ODI # 3507,One,1,"Bulawayo, Zimbabwe.",Bulawayo,v Zimbabwe,batting-friendly pitch.,Sunny,Sixty to Ninety,73.2,Bet twenty to forty,34,Five to Ten,6,Above three hundred,366,bet fifty to hundred,63
+ODI # 3508,One,1,"Bulawayo, Zimbabwe.",Bulawayo,v Zimbabwe,batting-friendly pitch.,Hot,Sixty to Ninety,64.6,Bet twenty to forty,33,Five to Ten,7,Above three hundred,323,Bat zero to fifty,38
+ODI # 3510,One,1,"Bulawayo, Zimbabwe.",Bulawayo,v Zimbabwe,balanced pitch,Mild,Thirty to Sixty,52,Bet twenty to forty,29,Five to Ten,5,Two Hundred to Three Hundred,260,bet fifty to hundred,84
+ODI # 3516,One,1,"Harare, Zimbabwe",Harare,v Australia,batting-friendly pitch.,Warm,Sixty to Ninety,63.4,Bet twenty to forty,33,Five to Ten,6,Above three hundred,317,Bat zero to fifty,19
+ODI # 3518,Two,2,"Harare, Zimbabwe",Harare,v Zimbabwe,batting-friendly pitch.,Warm,Sixty to Ninety,66.4,Bet twenty to forty,34,Five to Ten,6,Above three hundred,332,bet fifty to hundred,76
+ODI # 3522,Two,2,"Harare, Zimbabwe",Harare,v Australia,batting-friendly pitch.,Mild,Thirty to Sixty,56,Bet twenty to forty,29,Zero to Five,4,Two Hundred to Three Hundred,280,Bat zero to fifty,1
+ODI # 3524,One,1,"Harare, Zimbabwe",Harare,v Zimbabwe,batting-friendly pitch.,Warm,Thirty to Sixty,43.6,Bet twenty to forty,21,Zero to Five,3,Two Hundred to Three Hundred,218,Bat zero to fifty,2
+ODI # 3526,Two,2,"Harare, Zimbabwe",Harare,v Australia,balanced pitch,Sunny,Thirty to Sixty,36.4,Bet zero to twenty,16,Zero to Five,3,One Fifty to Two Hundred,182,Bat zero to fifty,7
+ODI # 3536,One,1,New Zealand,Mount Maunganui,v New Zealand,batting-friendly pitch.,Warm,Zero to Thirty,21,Bet zero to twenty,10,Zero to Five,1,One Hundred to One Fifty,105,Bat zero to fifty,9
+ODI # 3537,Two,2,New Zealand,Mount Maunganui,v New Zealand,batting-friendly pitch.,Warm,Zero to Thirty,19,Bet zero to twenty,10,Zero to Five,1,Fifty to One Hundred,95,Bat zero to fifty,19
+ODI # 3538,One,1,"Hamilton, New Zealand",Hamilton,v New Zealand,batting-friendly pitch.,Sunny,Zero to Thirty,11,Bet zero to twenty,17,Zero to Five,0,Zero to Fifty,38,bet fifty to hundred,80
